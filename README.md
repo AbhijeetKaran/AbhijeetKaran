@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello
-
+# Programming languages i can work on
 <img src="https://user-images.githubusercontent.com/53552871/210550718-6966530c-da3c-43aa-9676-545a34996724.svg" width="100" height="100">        <img src="https://user-images.githubusercontent.com/53552871/210549554-45e01c58-202f-4a7f-8285-e4550ac5a13d.svg" width="100" height="100">        <img src="https://user-images.githubusercontent.com/53552871/210550831-eb134ae7-12e9-4394-a35c-41a4fbc0d7a9.svg" width="100" height="100">        <img src="https://user-images.githubusercontent.com/53552871/210550843-ac97c256-58f8-4fc4-afbc-6220f352f807.svg" width="100" height="100">       <img src="https://user-images.githubusercontent.com/53552871/210550853-01607be5-077a-42fb-bd8d-7ff519fd9356.svg" width="100" height="100">
