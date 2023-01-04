@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hello bye good night
-<i class="programming lang-python"></i>
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/53552871/210549554-45e01c58-202f-4a7f-8285-e4550ac5a13d.svg)" width="100" height="100">
