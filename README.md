@@ -9,8 +9,6 @@ On this page, you'll find a collection of my personal projects. Feel free to tak
 <a href="https://twitter.com/@abhijeetkaran2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhijeetkaran2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/abhijeetkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhijeetkaran" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhijeetkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhijeetkaran" height="30" width="40" /></a>
-<a href="https://fb.com/abhijeetkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijeetkaran" height="30" width="40" /></a>
-<a href="https://instagram.com/abhijeetkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeetkaran" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
